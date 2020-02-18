@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Welcome to my first maven project." );
+        System.out.println("Ron was here!!!");
     }
 }
